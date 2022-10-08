@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/farmer-signup/static/css/main.b8d7bd34.css",
-    "main.js": "/farmer-signup/static/js/main.8cfa44e0.js",
-    "static/media/prevent-wellness.PNG": "/farmer-signup/static/media/prevent-wellness.717711f6275a45280ce7.PNG",
-    "static/media/apoth.png": "/farmer-signup/static/media/apoth.90f065d722ce087fe025.png",
-    "static/media/corrupt.png": "/farmer-signup/static/media/corrupt.d7e64abdd3df3744ac04.png",
-    "static/media/hippocrates.PNG": "/farmer-signup/static/media/hippocrates.4cc6bddbc1c04dd6a996.PNG",
-    "static/media/obese.png": "/farmer-signup/static/media/obese.627959c096ab05e2ec50.png",
-    "index.html": "/farmer-signup/index.html",
-    "main.b8d7bd34.css.map": "/farmer-signup/static/css/main.b8d7bd34.css.map",
-    "main.8cfa44e0.js.map": "/farmer-signup/static/js/main.8cfa44e0.js.map"
+    "main.css": "/static/css/main.b8d7bd34.css",
+    "main.js": "/static/js/main.31c2282c.js",
+    "static/media/prevent-wellness.PNG": "/static/media/prevent-wellness.717711f6275a45280ce7.PNG",
+    "static/media/apoth.png": "/static/media/apoth.90f065d722ce087fe025.png",
+    "static/media/corrupt.png": "/static/media/corrupt.d7e64abdd3df3744ac04.png",
+    "static/media/hippocrates.PNG": "/static/media/hippocrates.4cc6bddbc1c04dd6a996.PNG",
+    "static/media/obese.png": "/static/media/obese.627959c096ab05e2ec50.png",
+    "index.html": "/index.html",
+    "main.b8d7bd34.css.map": "/static/css/main.b8d7bd34.css.map",
+    "main.31c2282c.js.map": "/static/js/main.31c2282c.js.map"
   },
   "entrypoints": [
     "static/css/main.b8d7bd34.css",
-    "static/js/main.8cfa44e0.js"
+    "static/js/main.31c2282c.js"
   ]
 }
