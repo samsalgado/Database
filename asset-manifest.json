@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/github.io/farmer-signup/static/css/main.b8d7bd34.css",
-    "main.js": "/github.io/farmer-signup/static/js/main.9a666b06.js",
+    "main.js": "/github.io/farmer-signup/static/js/main.d7c0aedd.js",
     "static/media/prevent-wellness.PNG": "/github.io/farmer-signup/static/media/prevent-wellness.717711f6275a45280ce7.PNG",
     "static/media/apoth.png": "/github.io/farmer-signup/static/media/apoth.90f065d722ce087fe025.png",
     "static/media/corrupt.png": "/github.io/farmer-signup/static/media/corrupt.d7e64abdd3df3744ac04.png",
@@ -9,10 +9,10 @@
     "static/media/obese.png": "/github.io/farmer-signup/static/media/obese.627959c096ab05e2ec50.png",
     "index.html": "/github.io/farmer-signup/index.html",
     "main.b8d7bd34.css.map": "/github.io/farmer-signup/static/css/main.b8d7bd34.css.map",
-    "main.9a666b06.js.map": "/github.io/farmer-signup/static/js/main.9a666b06.js.map"
+    "main.d7c0aedd.js.map": "/github.io/farmer-signup/static/js/main.d7c0aedd.js.map"
   },
   "entrypoints": [
     "static/css/main.b8d7bd34.css",
-    "static/js/main.9a666b06.js"
+    "static/js/main.d7c0aedd.js"
   ]
 }
